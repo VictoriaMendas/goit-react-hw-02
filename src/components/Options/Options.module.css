@@ -1,0 +1,9 @@
+.btn {
+  margin-right: 8px;
+  text-transform: capitalize;
+}
+.btn:hover,
+.btn:focus {
+  background-color: brown;
+  color: rgb(190, 190, 85);
+}
